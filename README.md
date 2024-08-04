@@ -15,7 +15,6 @@ This project implements a web service to reconcile customer identities across mu
 
     ```bash
     clone the repo
-    cd bitespeed-backend
     ```
 
 2. Install dependencies:
